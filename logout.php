@@ -5,7 +5,7 @@
  session_unset();
  
  session_destroy();
- // Redirect to homepage
+ // Redirect to homepage edited
  header ('location:index.php');
  
  exit();
